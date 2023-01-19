@@ -1,0 +1,3 @@
+BariAnnase,ba12321,ba12321@nyu.edu
+ChrisHemsworth,ch9410,ch9410@nyu.edu
+AndrewHamilton,ah8910,ah8910@nyu.edu

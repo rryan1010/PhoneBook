@@ -1,0 +1,3 @@
+RyanRim,rr4240,ryan@nyu.edu
+AaronLee,al5314,aaron@nyu.edu
+HunterArlon,ha8942,hunter@nyu.edu
